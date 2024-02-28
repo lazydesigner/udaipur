@@ -37,7 +37,7 @@ include './profiles-card.php'; ?>
     <?php include './header.php' ?>
     <div class="content-container">
         <div class="page-container">
-            <div class="main-content">
+            <div class="main-content" style="width: 100%;">
             <h1 class="main-heading">DMCA</h1>
 
 <h4 class="third-heading"><strong>Takedown Notice Pursuant to the Digital Millennium Copyright Act of 1998</strong></h4>
@@ -59,9 +59,6 @@ This is a notice in accordance with the Digital Millennium&nbsp;<strong>Copyrigh
 <hr />
 <p><strong>Warning:</strong>&nbsp;The content of this website is not intended to constitute legal advice, and users of the DMCA takedown request generator remain entirely responsible for their own copyright claims.</p>
 
-            </div>
-            <div class="side-content">
-                <?php include './side-page-content.php'; ?>
             </div>
         </div>
 

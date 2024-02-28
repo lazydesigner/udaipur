@@ -202,10 +202,10 @@
             <strong>Partner</strong>
             <ul>
                 <li><a href="https://goa.callgirlsinlucknow.in/">Goa</a></li>
-                <li><a href="https://varanasi.callgirlsinlucknow.in/udaipur-escorts/">Varanasi</a></li>
+                <li><a href="https://varanasi.callgirlsinlucknow.in/">Varanasi</a></li>
                 <li><a href="https://callgirlsinlucknow.in/escort-service-in-dehradun/">Dehradun</a></li>
                 <li><a href="https://callgirlsinlucknow.in/call-girls-in-mussoorie/">Mussoorie</a></li>
-                <li><a href="<?=get_url() ?>call-girls-in-jaipur/">Jaipur</a></li>
+                <li><a href="https://callgirlsinlucknow.in/call-girls-in-jaipur/">Jaipur</a></li>
                 <!-- <li><a href="<?=get_url() ?>call-girls-in-">/a></li> -->
                 <li><a href="https://callgirlsinlucknow.in/call-girls-in-rishikesh/">Rishikesh</a></li>
                 <li><a href="https://callgirlsinlucknow.in/indore-escort-service/">Indore</a></li>
