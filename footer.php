@@ -178,12 +178,12 @@
                 <li id="backb" style="display: none;">
                     <ul style="display: flex;gap:3%;padding:0;align-items:center;justify-content: center; flex-wrap: wrap;">
                         <li>
-                            <div style="width:100px;height:auto"><a href="https://www.dmca.com/compliance/callgirlsinlucknow.in" title="DMCA Compliance information for callgirlsinlucknow.in"><img src="https://www.dmca.com/img/dmca-compliant-grayscale.png" alt="DMCA compliant image" width="100%" /></a></div>
+                            <div style="width:100px;height:auto"><a href="https://www.dmca.com/compliance/callgirlsinlucknow.in" title="DMCA Compliance information for callgirlsinlucknow.in"><img src="https://www.dmca.com/img/dmca-compliant-grayscale.png" alt="DMCA compliant image" width="100%" height="100%"  loading="lazy"/></a></div>
                         </li>
                         <li>
                             <div style="width: 100px;height:auto">
                                 <div class="elementor-widget-container">
-                                    <a href="https://www.dmca.com/Protection/Status.aspx?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82&amp;refurl=https://www.callgirlsinlucknow.in/call-girls-in-goa/" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/_dmca_premi_badge_1.png?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82" alt="DMCA.com Protection Status" width="100%"></a>
+                                    <a href="https://www.dmca.com/Protection/Status.aspx?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82&amp;refurl=https://www.callgirlsinlucknow.in/call-girls-in-goa/" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/_dmca_premi_badge_1.png?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82" alt="DMCA.com Protection Status" width="100%" height="100%"  loading="lazy"></a>
                                    
                                 </div>
                             </div>

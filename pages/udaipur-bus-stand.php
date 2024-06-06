@@ -1,5 +1,9 @@
 <?php include '../routes.php';
-include '../profiles-card.php'; ?>
+include '../profiles-card.php'; 
+
+$phone_number = '+918442080080';
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 
